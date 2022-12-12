@@ -9,7 +9,7 @@
   "author": "Luigi De Russis",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validator": "^6.4.1",
     "moment": "^2.25.3",
     "morgan": "^1.10.0",
